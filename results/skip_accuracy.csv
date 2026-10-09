@@ -1,0 +1,7 @@
+detector,side,skip,conf,skipped_frames_faces,agreement_rate,mean_iou_of_matches
+res10,640,2,0.5,228,0.9868,0.9264
+res10,640,3,0.5,302,0.9834,0.9022
+res10,640,5,0.5,361,0.9723,0.8691
+yunet,640,2,0.5,229,1.0,0.9151
+yunet,640,3,0.5,305,0.9869,0.8942
+yunet,640,5,0.5,365,0.9644,0.8665
